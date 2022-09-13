@@ -1,0 +1,3 @@
+[submodule "simple-next-js-app"]
+	path = simple-next-js-app
+	url = git@github.com:quockidang95/simple-next-js-app.git
